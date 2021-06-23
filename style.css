@@ -1,0 +1,15 @@
+.background{
+    background-size: cover;
+    background-position : center;
+    background-color: lime;
+}
+h1{
+    font-family: monospace;
+    color: cyan;
+}
+#canvas_1{
+    border: solid blue;
+    border-width: 3px;
+    border-style: ridge;
+    background-color: white;
+}
